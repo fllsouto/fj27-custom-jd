@@ -6,11 +6,11 @@ import java.util.stream.Collectors;
 import br.com.caelum.casadocodigoapi.model.Category;
 
 public class CategoryOutputDto {
-	
+
 	private Long id;
-	
+
 	private String title;
-	
+
 	private String description;
 
 	public Long getId() {
